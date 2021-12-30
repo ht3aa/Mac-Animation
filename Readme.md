@@ -1,8 +1,8 @@
 # Mac Animation
-Animation that look like the bottom navigation of Mac operating system.
+Animation that looks like the bottom navigation of the Mac operating system.
 (put a video here)
 
-## How to use
+## How to use it
 1. Download the repo and add the macNavAnimation.js file to your project.
 2. Make an html file.
 3. Add this script to the end of the body tag.
@@ -26,4 +26,4 @@ just like this:
 ```
 6. Style the parent element and its children as you want.
 
-And you have done it. hope the animation satisfy your needs ❤️🔥.
+And you have done it. hope the animation satisfies your needs ❤️🔥.
