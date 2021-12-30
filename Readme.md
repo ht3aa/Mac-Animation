@@ -2,7 +2,7 @@
 Animation that looks like the bottom navigation of the Mac operating system.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mKUP2uq5O40" target="_blank"><img src="http://img.youtube.com/vi/mKUP2uq5O40/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 ## How to use it
 1. Download the repo and add the macNavAnimation.js file to your project.
