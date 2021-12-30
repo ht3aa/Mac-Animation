@@ -23,8 +23,8 @@ function move(index, y){
     childernOfparentDiv[index].style.height = `${y}px`;
 }
 function reset(index){
-    childernOfparentDiv[index].style.width = childSmallestValue + 'px';
-    childernOfparentDiv[index].style.height = childSmallestValue + 'px';
+    childernOfparentDiv[index].style.width = `${childSmallestValue}px`;
+    childernOfparentDiv[index].style.height = `${childSmallestValue}px`;
 }
 
 
