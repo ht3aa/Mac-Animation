@@ -25,3 +25,5 @@ just like this:
     </ul>
 ```
 6. Style the parent element and its children as you want.
+
+And you have done it. hope the animation satisfy your needs ❤️🔥.
