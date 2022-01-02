@@ -3,6 +3,7 @@ Animation that looks like the bottom navigation of the Mac operating system.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mKUP2uq5O40" target="_blank"><img src="http://img.youtube.com/vi/mKUP2uq5O40/0.jpg" 
 alt="Mac Animation" width="480" height="360" border="10" /></a>
+<br>
 (The video and the idea was taken from this site https://rauno.me/)
 
 ## How to use it
