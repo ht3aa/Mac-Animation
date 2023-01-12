@@ -1,0 +1,22 @@
+{
+  "name": "mac-animation",
+  "version": "1.0.0",
+  "description": "Animation that looks like the bottom navigation of the Mac operating system.",
+  "main": "macNavAnimation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ht3aa/Mac-Animation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ht3aa/Mac-Animation/issues"
+  },
+  "homepage": "https://github.com/ht3aa/Mac-Animation#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
