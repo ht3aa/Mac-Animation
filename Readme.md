@@ -1,35 +1,29 @@
 # Mac Animation
+
 Animation that looks like the bottom navigation of the Mac operating system.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=mKUP2uq5O40" target="_blank"><img src="http://img.youtube.com/vi/mKUP2uq5O40/0.jpg" 
-alt="Mac Animation" width="480" height="360" border="10" /></a>
-<br>
-(The video and the idea was taken from this site https://rauno.me/)
-
 ## How to use it
-1. Download the repo and add the macNavAnimation.js file to your project.
-2. Make an html file.
-3. Add this script to the end of the body tag.
+
+1. Download the repo.
+2. Make sure to have typescript in your system. [English_tutorial](https://youtu.be/2pZmKW9-I_k)-----[Arabic_tutorial](https://youtu.be/pc5IlcEn8vw)
+
+3. Add element as many as you want inside the ul element with class="block" (the animation will be applied to these children where their parent is the element with class="block").
+   just like this:
+
 ```html
-<script src="macNavAnimation.js"></script>
+<ul class="block">
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  .... ....
+</ul>
 ```
-4. Make an element (prefer a div or ul element) and give it a block class.
-5. Add children to that element as many as you want (the animation will be applied to these children).
-just like this:
-```html
-    <ul class="block">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        ....
-        ....
-    </ul>
-```
-6. Style the parent element and its children as you want.
+
+4. Style the parent element and its children as you want.
 
 And you have done it. hope the animation satisfies your needs ❤️🔥.
